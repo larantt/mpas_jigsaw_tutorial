@@ -1,5 +1,5 @@
 # mesh.jig config. file; created by JIGSAW's PYTHON interface 
-  VERBOSITY=1
+  VERBOSITY=5
   GEOM_FILE=GEOM.msh
   HFUN_FILE=HFUN.msh
   HFUN_SCAL=absolute
